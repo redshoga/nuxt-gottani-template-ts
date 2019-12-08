@@ -1,3 +1,7 @@
+# DEPRECATED
+This repository will not be updated in the future.
+Please refer to [new project page](https://github.com/redshoga/nuxt-ts-gottani-template).
+
 # nuxt-gottani-template
 
 > My stellar Nuxt.js project
